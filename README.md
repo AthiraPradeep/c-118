@@ -1,1 +1,1 @@
-# c-118
+# PRO-C106-Teacher-Boilerplate
